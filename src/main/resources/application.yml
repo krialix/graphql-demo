@@ -1,0 +1,9 @@
+graphql:
+  tools:
+    schemaLocationPattern: "**/*.graphqls"
+spring:
+  h2:
+    console:
+      enabled: true
+server:
+  port: 9000
